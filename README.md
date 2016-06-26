@@ -1,6 +1,22 @@
 # G.G (i.e Get your Girl)
 This is a Game built using the Lib GDX Framework for easy cross platform development using Intelij by Jet Brains.
 
+## Controls
+
+* Left click shoots toward the mouse position. Hold to keep shooting.
+* `A` is left, `D` is right, `W` is jump.
+* Press `alt + enter` or click `Fullscreen` in the menu to run the game fullscreen.
+* Press `P` to pause.
+
+## Gameplay tips
+
+You may find G.G difficult at first. The game is relatively short, so the difficulty ramps up quickly. These tips may help you!
+
+* Don't move through further into the level until you've killed all the enemies you find.
+* Your weapon shoots very fast, but suffers from reduced accuracy when shot continuously. Cease firing momentarily to regain accuracy. 
+* You cannot shoot backward when running away, but you can jump while running away and shoot backward in the air.
+* Standing your ground and mowing down enemies is great, but there are quickly so many enemies that you get overrun. When this happens, goomba head stomp the enemies. This is key to winning!
+
 Versions
 ========
 Latest Stable: **0.0.0**  
